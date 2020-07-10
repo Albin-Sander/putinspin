@@ -2,8 +2,14 @@
     animation: rotation 8s infinite linear;
 }
 
+h1 {
+  font-size: 3.5rem;
+}
+
 body {
     text-align: center;
+    display: grid;
+    grid-template-rows: repeat(3,1fr);
 }
 
 
