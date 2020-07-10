@@ -2,6 +2,9 @@
     animation: rotation 8s infinite linear;
 }
 
+body {
+    text-align: center;
+}
 
 
 
